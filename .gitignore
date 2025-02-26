@@ -1,0 +1,16 @@
+/out
+bin/
+.vs
+build/
+CMakeCache.txt
+CMakeSettings.json
+CMakeFiles/
+Makefile
+*.sln
+*.vcxproj*
+*.user
+dependencies/
+.vscode/
+.idea/
+*.log
+*.bat
